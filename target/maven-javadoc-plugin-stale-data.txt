@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Usuario/Documents/NetBeansProjects/ProyectoFinal/ProyectoFinal/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Usuario/Documents/NetBeansProjects/ProyectoFinal/ProyectoFinal/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoFinal 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Usuario/Documents/NetBeansProjects/ProyectoFinal/ProyectoFinal/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ProyectoFinal 1.0-SNAPSHOT API'
+proyectofinal.proyectofinal
+'C:/Users/Usuario/Documents/NetBeansProjects/ProyectoFinal/ProyectoFinal/src/main/java/proyectofinal/proyectofinal/CantidadLetras.java'
+'C:/Users/Usuario/Documents/NetBeansProjects/ProyectoFinal/ProyectoFinal/src/main/java/proyectofinal/proyectofinal/ClasificacionPalabras.java'
+'C:/Users/Usuario/Documents/NetBeansProjects/ProyectoFinal/ProyectoFinal/src/main/java/proyectofinal/proyectofinal/ManejaOperacionesTrivia.java'
+'C:/Users/Usuario/Documents/NetBeansProjects/ProyectoFinal/ProyectoFinal/src/main/java/proyectofinal/proyectofinal/MenuApps.java'
+'C:/Users/Usuario/Documents/NetBeansProjects/ProyectoFinal/ProyectoFinal/src/main/java/proyectofinal/proyectofinal/PalabrasDesordenadas.java'
+'C:/Users/Usuario/Documents/NetBeansProjects/ProyectoFinal/ProyectoFinal/src/main/java/proyectofinal/proyectofinal/Principal.java'
+'C:/Users/Usuario/Documents/NetBeansProjects/ProyectoFinal/ProyectoFinal/src/main/java/proyectofinal/proyectofinal/TriviaMatematica.java'
+'C:/Users/Usuario/Documents/NetBeansProjects/ProyectoFinal/ProyectoFinal/src/main/java/proyectofinal/proyectofinal/VocalesYConsonantes.java'
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\src\main\java = 1647921150236
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\target\site\apidocs\allclasses-frame.html = 1661472817323
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\target\site\apidocs\allclasses-noframe.html = 1661472817332
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\target\site\apidocs\constant-values.html = 1661472817006
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\target\site\apidocs\deprecated-list.html = 1661472817318
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\target\site\apidocs\help-doc.html = 1661472817386
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\target\site\apidocs\index-all.html = 1661472817310
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\target\site\apidocs\index.html = 1661472817335
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\target\site\apidocs\overview-tree.html = 1661472817252
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\target\site\apidocs\package-list = 1661472816857
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\target\site\apidocs\script.js = 1661472817389
+C:\Users\Usuario\Documents\NetBeansProjects\ProyectoFinal\ProyectoFinal\target\site\apidocs\stylesheet.css = 1661212263282
